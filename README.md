@@ -1,2 +1,3 @@
 # hello-world
-Beginning Github
+
+Summer here, I am excited to start using this site!
